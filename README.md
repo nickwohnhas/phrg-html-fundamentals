@@ -5,4 +5,4 @@
 <p><a href="https://www.youtube.com/watch?v=tuDKQxfiXmY">Alternate video link</a>.</p>
 
 
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-fundamentals' title='HTML Fundamentals'>HTML Fundamentals</a> on Learn.co and start learning to code for free.</p>
+<p data-visibility='hidden'>PHRG HTML Fundamentals</p>
